@@ -1,0 +1,4 @@
+def mavenBuild()
+{
+  mvn install;
+}
